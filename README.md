@@ -1,6 +1,6 @@
 # ☀️Go1denWind
 
-## （Chilias Deluxe 3000/ student）
+## （🤖Chilias Deluxe 3000/ student）
 Little bit about me： My name is Mingze Sun, an engineering student at the University of Auckland. I enjoy working on programming projects, learning new technologies, and solving real-world problems.  
 
 ### 🔭 What I'm working on:  
